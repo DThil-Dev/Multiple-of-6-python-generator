@@ -1,4 +1,5 @@
-# Replace 'Dinod' with your Windows username if it's different
+# Replace 'Name' with your Windows username if it's different
+# For good measure it may be in your interest to replace the whole path code below.
 # Also, make sure to have a file named 'multiples_of_6.txt' on your desktop before running this code
 path = r"C:\Users\Name\Desktop\multiples_of_6.txt"
 
