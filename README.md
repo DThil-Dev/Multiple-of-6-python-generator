@@ -8,3 +8,5 @@ Check graph-prime.html to see more on this project.
 
 The Python code here is simple, if it falls out of date, send it to Google Gemini and it will return the latest version compitable
 with Python. 
+
+To use this, simply download the full zip file and double click on the HTML file to open it in your browser. 
